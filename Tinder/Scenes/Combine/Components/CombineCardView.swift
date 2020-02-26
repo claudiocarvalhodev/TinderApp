@@ -31,6 +31,8 @@ class CombineCardView: UIView {
     let deslikeImageView: UIImageView = .iconCard(named: "card-deslike")
     let likeImageView: UIImageView = .iconCard(named: "card-like")
     
+    var callback: ((User) -> Void)?
+    
     // MARK: - Init
     
     override init(frame: CGRect) {
@@ -40,6 +42,12 @@ class CombineCardView: UIView {
     
     required init?(coder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
+    }
+    
+    @objc func checkClick() {
+        if let user = self.user {
+            self.callback?(user)
+        }
     }
     
     func configureUI() {
@@ -81,5 +89,10 @@ class CombineCardView: UIView {
                          trailing: trailingAnchor,
                          bottom: bottomAnchor,
                          padding: .init(top: 0, left: 16, bottom: 16, right: 16))
+        
+        
+        let tap = UITapGestureRecognizer(target: self, action: #selector(checkClick))
+        stackView.isUserInteractionEnabled = true
+        stackView.addGestureRecognizer(tap)
     }
 }
