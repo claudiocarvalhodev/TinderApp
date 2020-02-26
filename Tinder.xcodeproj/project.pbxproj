@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		911FCA3A2405E3A400F90DB2 /* MatchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911FCA392405E3A400F90DB2 /* MatchViewController.swift */; };
 		9142097B24053D8D00B64D7D /* UIButton+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9142097A24053D8D00B64D7D /* UIButton+Extensions.swift */; };
 		9142097D240588EC00B64D7D /* Loading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9142097C240588EC00B64D7D /* Loading.swift */; };
 		91C04225240435CE00CBC890 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91C04224240435CE00CBC890 /* AppDelegate.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		911FCA392405E3A400F90DB2 /* MatchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchViewController.swift; sourceTree = "<group>"; };
 		9142097A24053D8D00B64D7D /* UIButton+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIButton+Extensions.swift"; sourceTree = "<group>"; };
 		9142097C240588EC00B64D7D /* Loading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loading.swift; sourceTree = "<group>"; };
 		91C04221240435CE00CBC890 /* Tinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -51,6 +53,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		911FCA382405E36900F90DB2 /* Match */ = {
+			isa = PBXGroup;
+			children = (
+				911FCA392405E3A400F90DB2 /* MatchViewController.swift */,
+			);
+			path = Match;
+			sourceTree = "<group>";
+		};
 		91C04218240435CE00CBC890 = {
 			isa = PBXGroup;
 			children = (
@@ -119,6 +129,7 @@
 			children = (
 				91C0423D240437A100CBC890 /* Launch Screen */,
 				91C0423E240437B800CBC890 /* Combine */,
+				911FCA382405E36900F90DB2 /* Match */,
 			);
 			path = Scenes;
 			sourceTree = "<group>";
@@ -246,6 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				911FCA3A2405E3A400F90DB2 /* MatchViewController.swift in Sources */,
 				91C0424824044E5D00CBC890 /* UILabel+Extensions.swift in Sources */,
 				91C04225240435CE00CBC890 /* AppDelegate.swift in Sources */,
 				91C04240240437E100CBC890 /* CombineViewController.swift in Sources */,

@@ -174,6 +174,11 @@ class CombineViewController: UIViewController {
     func checkMatch(user: User) {
         if user.match {
             print("Wooow")
+            
+            let matchViewController = MatchViewController()
+            matchViewController.user = user
+            matchViewController.modalPresentationStyle = .fullScreen
+            self.present(matchViewController, animated: true, completion: nil)
         }
     }
     
