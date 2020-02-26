@@ -10,20 +10,20 @@
 		910A031724062964002A12B6 /* DetailPhotosCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910A031624062964002A12B6 /* DetailPhotosCell.swift */; };
 		910A031A24062D99002A12B6 /* PhotoSlideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910A031924062D99002A12B6 /* PhotoSlideViewController.swift */; };
 		910A031D24063338002A12B6 /* PhotoSlideCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910A031C24063338002A12B6 /* PhotoSlideCell.swift */; };
-		9111BB7824066CFF001879F3 /* screenshot-08.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB6B24066CFF001879F3 /* screenshot-08.png */; };
-		9111BB7924066CFF001879F3 /* screenshot-09.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB6C24066CFF001879F3 /* screenshot-09.png */; };
-		9111BB7A24066CFF001879F3 /* Tinder App - Presentation02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB6D24066CFF001879F3 /* Tinder App - Presentation02.png */; };
-		9111BB7B24066CFF001879F3 /* header-presentation.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB6E24066CFF001879F3 /* header-presentation.png */; };
-		9111BB7C24066CFF001879F3 /* screenshot-04.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB6F24066CFF001879F3 /* screenshot-04.png */; };
-		9111BB7D24066CFF001879F3 /* screenshot-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7024066CFF001879F3 /* screenshot-10.png */; };
-		9111BB7E24066CFF001879F3 /* screenshot-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7124066CFF001879F3 /* screenshot-11.png */; };
-		9111BB7F24066CFF001879F3 /* screenshot-05.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7224066CFF001879F3 /* screenshot-05.png */; };
-		9111BB8024066CFF001879F3 /* screenshot-07.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7324066CFF001879F3 /* screenshot-07.png */; };
-		9111BB8124066CFF001879F3 /* screenshot-06.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7424066CFF001879F3 /* screenshot-06.png */; };
-		9111BB8224066CFF001879F3 /* screenshot-02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7524066CFF001879F3 /* screenshot-02.png */; };
-		9111BB8324066CFF001879F3 /* screenshot-03.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7624066CFF001879F3 /* screenshot-03.png */; };
-		9111BB8424066CFF001879F3 /* screenshot-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB7724066CFF001879F3 /* screenshot-01.png */; };
 		9111BB8624066D3C001879F3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8524066D3C001879F3 /* README.md */; };
+		9111BB9524067363001879F3 /* screenshot-08.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8824067363001879F3 /* screenshot-08.png */; };
+		9111BB9624067363001879F3 /* screenshot-09.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8924067363001879F3 /* screenshot-09.png */; };
+		9111BB9724067363001879F3 /* Tinder App - Presentation02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8A24067363001879F3 /* Tinder App - Presentation02.png */; };
+		9111BB9824067363001879F3 /* header-presentation.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8B24067363001879F3 /* header-presentation.png */; };
+		9111BB9924067363001879F3 /* screenshot-04.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8C24067363001879F3 /* screenshot-04.png */; };
+		9111BB9A24067363001879F3 /* screenshot-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8D24067363001879F3 /* screenshot-10.png */; };
+		9111BB9B24067363001879F3 /* screenshot-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8E24067363001879F3 /* screenshot-11.png */; };
+		9111BB9C24067363001879F3 /* screenshot-05.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB8F24067363001879F3 /* screenshot-05.png */; };
+		9111BB9D24067363001879F3 /* screenshot-07.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB9024067363001879F3 /* screenshot-07.png */; };
+		9111BB9E24067363001879F3 /* screenshot-06.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB9124067363001879F3 /* screenshot-06.png */; };
+		9111BB9F24067363001879F3 /* screenshot-02.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB9224067363001879F3 /* screenshot-02.png */; };
+		9111BBA024067363001879F3 /* screenshot-03.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB9324067363001879F3 /* screenshot-03.png */; };
+		9111BBA124067363001879F3 /* screenshot-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 9111BB9424067363001879F3 /* screenshot-01.png */; };
 		911FCA3A2405E3A400F90DB2 /* MatchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911FCA392405E3A400F90DB2 /* MatchViewController.swift */; };
 		911FCA3D2405FCA400F90DB2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911FCA3C2405FCA400F90DB2 /* DetailViewController.swift */; };
 		911FCA4224060F0E00F90DB2 /* DetailHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 911FCA4124060F0E00F90DB2 /* DetailHeaderView.swift */; };
@@ -48,20 +48,20 @@
 		910A031624062964002A12B6 /* DetailPhotosCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailPhotosCell.swift; sourceTree = "<group>"; };
 		910A031924062D99002A12B6 /* PhotoSlideViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSlideViewController.swift; sourceTree = "<group>"; };
 		910A031C24063338002A12B6 /* PhotoSlideCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoSlideCell.swift; sourceTree = "<group>"; };
-		9111BB6B24066CFF001879F3 /* screenshot-08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-08.png"; sourceTree = "<group>"; };
-		9111BB6C24066CFF001879F3 /* screenshot-09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-09.png"; sourceTree = "<group>"; };
-		9111BB6D24066CFF001879F3 /* Tinder App - Presentation02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tinder App - Presentation02.png"; sourceTree = "<group>"; };
-		9111BB6E24066CFF001879F3 /* header-presentation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "header-presentation.png"; sourceTree = "<group>"; };
-		9111BB6F24066CFF001879F3 /* screenshot-04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-04.png"; sourceTree = "<group>"; };
-		9111BB7024066CFF001879F3 /* screenshot-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-10.png"; sourceTree = "<group>"; };
-		9111BB7124066CFF001879F3 /* screenshot-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-11.png"; sourceTree = "<group>"; };
-		9111BB7224066CFF001879F3 /* screenshot-05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-05.png"; sourceTree = "<group>"; };
-		9111BB7324066CFF001879F3 /* screenshot-07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-07.png"; sourceTree = "<group>"; };
-		9111BB7424066CFF001879F3 /* screenshot-06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-06.png"; sourceTree = "<group>"; };
-		9111BB7524066CFF001879F3 /* screenshot-02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-02.png"; sourceTree = "<group>"; };
-		9111BB7624066CFF001879F3 /* screenshot-03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-03.png"; sourceTree = "<group>"; };
-		9111BB7724066CFF001879F3 /* screenshot-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-01.png"; sourceTree = "<group>"; };
 		9111BB8524066D3C001879F3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9111BB8824067363001879F3 /* screenshot-08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-08.png"; sourceTree = "<group>"; };
+		9111BB8924067363001879F3 /* screenshot-09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-09.png"; sourceTree = "<group>"; };
+		9111BB8A24067363001879F3 /* Tinder App - Presentation02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tinder App - Presentation02.png"; sourceTree = "<group>"; };
+		9111BB8B24067363001879F3 /* header-presentation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "header-presentation.png"; sourceTree = "<group>"; };
+		9111BB8C24067363001879F3 /* screenshot-04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-04.png"; sourceTree = "<group>"; };
+		9111BB8D24067363001879F3 /* screenshot-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-10.png"; sourceTree = "<group>"; };
+		9111BB8E24067363001879F3 /* screenshot-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-11.png"; sourceTree = "<group>"; };
+		9111BB8F24067363001879F3 /* screenshot-05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-05.png"; sourceTree = "<group>"; };
+		9111BB9024067363001879F3 /* screenshot-07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-07.png"; sourceTree = "<group>"; };
+		9111BB9124067363001879F3 /* screenshot-06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-06.png"; sourceTree = "<group>"; };
+		9111BB9224067363001879F3 /* screenshot-02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-02.png"; sourceTree = "<group>"; };
+		9111BB9324067363001879F3 /* screenshot-03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-03.png"; sourceTree = "<group>"; };
+		9111BB9424067363001879F3 /* screenshot-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screenshot-01.png"; sourceTree = "<group>"; };
 		911FCA392405E3A400F90DB2 /* MatchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchViewController.swift; sourceTree = "<group>"; };
 		911FCA3C2405FCA400F90DB2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		911FCA4124060F0E00F90DB2 /* DetailHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailHeaderView.swift; sourceTree = "<group>"; };
@@ -112,22 +112,22 @@
 			path = Cell;
 			sourceTree = "<group>";
 		};
-		9111BB6A24066CFF001879F3 /* Screenshots */ = {
+		9111BB8724067363001879F3 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				9111BB6B24066CFF001879F3 /* screenshot-08.png */,
-				9111BB6C24066CFF001879F3 /* screenshot-09.png */,
-				9111BB6D24066CFF001879F3 /* Tinder App - Presentation02.png */,
-				9111BB6E24066CFF001879F3 /* header-presentation.png */,
-				9111BB6F24066CFF001879F3 /* screenshot-04.png */,
-				9111BB7024066CFF001879F3 /* screenshot-10.png */,
-				9111BB7124066CFF001879F3 /* screenshot-11.png */,
-				9111BB7224066CFF001879F3 /* screenshot-05.png */,
-				9111BB7324066CFF001879F3 /* screenshot-07.png */,
-				9111BB7424066CFF001879F3 /* screenshot-06.png */,
-				9111BB7524066CFF001879F3 /* screenshot-02.png */,
-				9111BB7624066CFF001879F3 /* screenshot-03.png */,
-				9111BB7724066CFF001879F3 /* screenshot-01.png */,
+				9111BB8824067363001879F3 /* screenshot-08.png */,
+				9111BB8924067363001879F3 /* screenshot-09.png */,
+				9111BB8A24067363001879F3 /* Tinder App - Presentation02.png */,
+				9111BB8B24067363001879F3 /* header-presentation.png */,
+				9111BB8C24067363001879F3 /* screenshot-04.png */,
+				9111BB8D24067363001879F3 /* screenshot-10.png */,
+				9111BB8E24067363001879F3 /* screenshot-11.png */,
+				9111BB8F24067363001879F3 /* screenshot-05.png */,
+				9111BB9024067363001879F3 /* screenshot-07.png */,
+				9111BB9124067363001879F3 /* screenshot-06.png */,
+				9111BB9224067363001879F3 /* screenshot-02.png */,
+				9111BB9324067363001879F3 /* screenshot-03.png */,
+				9111BB9424067363001879F3 /* screenshot-01.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -173,8 +173,8 @@
 			children = (
 				9111BB8524066D3C001879F3 /* README.md */,
 				91C04223240435CE00CBC890 /* Tinder */,
-				9111BB6A24066CFF001879F3 /* Screenshots */,
 				91C04222240435CE00CBC890 /* Products */,
+				9111BB8724067363001879F3 /* Screenshots */,
 			);
 			sourceTree = "<group>";
 		};
@@ -356,22 +356,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9111BB7D24066CFF001879F3 /* screenshot-10.png in Resources */,
-				9111BB8424066CFF001879F3 /* screenshot-01.png in Resources */,
-				9111BB8124066CFF001879F3 /* screenshot-06.png in Resources */,
-				9111BB8224066CFF001879F3 /* screenshot-02.png in Resources */,
-				9111BB7B24066CFF001879F3 /* header-presentation.png in Resources */,
-				9111BB7924066CFF001879F3 /* screenshot-09.png in Resources */,
+				9111BBA124067363001879F3 /* screenshot-01.png in Resources */,
+				9111BB9C24067363001879F3 /* screenshot-05.png in Resources */,
+				9111BB9724067363001879F3 /* Tinder App - Presentation02.png in Resources */,
+				9111BB9B24067363001879F3 /* screenshot-11.png in Resources */,
+				9111BB9624067363001879F3 /* screenshot-09.png in Resources */,
 				9111BB8624066D3C001879F3 /* README.md in Resources */,
-				9111BB7A24066CFF001879F3 /* Tinder App - Presentation02.png in Resources */,
-				9111BB8024066CFF001879F3 /* screenshot-07.png in Resources */,
-				9111BB7E24066CFF001879F3 /* screenshot-11.png in Resources */,
-				9111BB8324066CFF001879F3 /* screenshot-03.png in Resources */,
+				9111BB9F24067363001879F3 /* screenshot-02.png in Resources */,
+				9111BB9924067363001879F3 /* screenshot-04.png in Resources */,
+				9111BBA024067363001879F3 /* screenshot-03.png in Resources */,
 				91C04231240435D100CBC890 /* LaunchScreen.storyboard in Resources */,
-				9111BB7C24066CFF001879F3 /* screenshot-04.png in Resources */,
-				9111BB7824066CFF001879F3 /* screenshot-08.png in Resources */,
-				9111BB7F24066CFF001879F3 /* screenshot-05.png in Resources */,
 				91C0422E240435D100CBC890 /* Assets.xcassets in Resources */,
+				9111BB9E24067363001879F3 /* screenshot-06.png in Resources */,
+				9111BB9524067363001879F3 /* screenshot-08.png in Resources */,
+				9111BB9A24067363001879F3 /* screenshot-10.png in Resources */,
+				9111BB9D24067363001879F3 /* screenshot-07.png in Resources */,
+				9111BB9824067363001879F3 /* header-presentation.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
