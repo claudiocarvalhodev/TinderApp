@@ -137,6 +137,10 @@ class CombineViewController: UIViewController {
             card.user = user
             card.tag = user.id
             
+            card.callback = { (data) in
+                self.checkDetail(user: data)
+            }
+            
             let gesture = UIPanGestureRecognizer()
             gesture.addTarget(self, action: #selector(handlerCard))
             
@@ -180,6 +184,24 @@ class CombineViewController: UIViewController {
             matchViewController.modalPresentationStyle = .fullScreen
             self.present(matchViewController, animated: true, completion: nil)
         }
+    }
+    
+    func checkDetail(user: User) {
+        let detailViewController = DetailViewController()
+        detailViewController.user = user
+        detailViewController.modalPresentationStyle = .fullScreen
+        
+        detailViewController.callback = { (user, action) in
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                if action == .deslike {
+                    self.deslikePressed()
+                } else {
+                    self.likePressed()
+                }
+            }
+        }
+        
+        self.present(detailViewController, animated: true, completion: nil)
     }
     
     func animationCard(rotationAngle: CGFloat, action: Action) {
